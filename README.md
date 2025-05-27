@@ -84,7 +84,7 @@ A passionate tech explorer, builder, and innovator.
 
 ## 📊 GitHub Analytics
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 25px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-SIDD&show_icons=true&theme=nightowl&hide_border=true&bg_color=1e1e2e&title_color=8b5cf6&icon_color=8b5cf6&custom_title=My+GitHub+Stats" alt="GitHub Stats" height="180"/>
   <img src="https://streak-stats.demolab.com?user=ANONYMOUS-SIDD&theme=nightowl&hide_border=true&background=1e1e2e&ring=8b5cf6&fire=8b5cf6&currstreak_bg=1e1e2e&side_main=8b5cf6&side_shadow=6366f1&stroke=8b5cf6&dates=6366f1" alt="GitHub Streak" height="180"/>
 </div>

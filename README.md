@@ -112,42 +112,16 @@ A passionate tech explorer, builder, and innovator.
 </div>
 
 ---
-<div align="center" style="margin-top: 48px;">
-
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td align="center" style="padding: 0 24px;">
-        <a href="https://github.com/ANONYMOUS-SIDD" title="GitHub Profile" style="text-decoration:none;">
-          <img src="https://komarev.com/ghpvc/?username=ANONYMOUS-SIDD&label=PROFILE+VIEWS&color=6d28d9&style=for-the-badge" alt="Profile Views" height="40" style="margin-bottom: 6px;"/>
-          <br>
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="26" style="margin-right:8px;vertical-align:middle;opacity:0.78;"/>
-          <span style="font-size:1.08em;font-family:Space Grotesk, Fira Code, monospace; color:#6d28d9; vertical-align:middle;">
-            Profile
-          </span>
-        </a>
-      </td>
-      <td align="center" style="padding: 0 24px;">
-        <a href="https://github.com/ANONYMOUS-SIDD?tab=followers" title="Followers" style="text-decoration:none;">
-          <img src="https://img.shields.io/github/followers/ANONYMOUS-SIDD?color=312e81&label=FOLLOWERS&style=for-the-badge" alt="Followers" height="40" style="margin-bottom: 6px;"/>
-          <br>
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/users.svg" width="26" style="margin-right:8px;vertical-align:middle;opacity:0.78;"/>
-          <span style="font-size:1.08em;font-family:Space Grotesk, Fira Code, monospace; color:#312e81; vertical-align:middle;">
-            Followers
-          </span>
-        </a>
-      </td>
-    </tr>
-  </table>
-
-</div>
-
 <br/>
 
-<div align="center" style="margin-top: 26px;">
-  <h3 style="font-family:'Space Grotesk', Fira Code, monospace; color:#8b5cf6; font-size: 1.5rem; font-weight: bold;">
-    🙏 Thank you for visiting my GitHub! 🚀<br>
-    <span style="font-size:1.1rem;color:#6366f1;"><br>
-      If you enjoyed, connect or follow for more exciting projects!
-    </span>
-  </h3>
+<div align="center" style="margin-top: 32px;">
+
+  <h2 style="font-family:'Space Grotesk', Fira Code, monospace; color:#8b5cf6; font-size: 2.1rem; font-weight: bold; margin-bottom: 0;">
+    🙏 Thank You for Visiting My GitHub! 🚀
+  </h2>
+  <p style="font-size:1.16rem; color:#6366f1; font-family:'Space Grotesk', Fira Code, monospace; margin-top: 18px;">
+    If you enjoyed my work, connect or follow for more<br>
+    <b>exciting projects, open source magic, and creative code!</b>
+  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1200&color=8b5cf6&center=true&width=600&lines=Happy+Coding!;Keep+Building!;Stay+Curious!;See+You+Around+on+GitHub!" alt="Thank You Animation" style="margin-top:12px;"/>
 </div>

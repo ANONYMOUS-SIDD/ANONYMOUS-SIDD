@@ -30,20 +30,29 @@ A passionate tech explorer, builder, and innovator.
 ---
 ## 🌍 Connect With Me
 
-<div align="center" style="margin-top: 10px;">
-  <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="36" style="margin: 0 12px;"/>
+<p align="center" style="margin-top: 20px;">
+
+  <!-- Gmail (Modern, official logo SVG) -->
+  <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png](https://skillicons.dev/icons?i=gmail)" alt="Gmail" width="42" />
   </a>
-  <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook">
-    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" height="36" style="margin: 0 12px;"/>
+
+  <!-- Facebook (Modern icon) -->
+  <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="42" />
   </a>
-  <a href="https://tiktok.com/@sid__ant" title="TikTok">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/TikTok-logo.svg" alt="TikTok" height="36" style="margin: 0 12px;"/>
+
+  <!-- TikTok (Official latest logo) -->
+  <a href="https://tiktok.com/@sid__ant" title="TikTok" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" alt="TikTok" width="42" />
   </a>
-  <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube">
-    <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" height="36" style="margin: 0 12px;"/>
+
+  <!-- YouTube (Flat modern icon) -->
+  <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="42" />
   </a>
-</div>
+
+</p>
 
 
 

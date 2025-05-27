@@ -1,92 +1,75 @@
 <!-- 
-  🚀 Siddhant Timalsina's GitHub Profile
-  Modern Professional Design | July 2024
+  🚀 ANONYMOUS GitHub Profile
+  Ultra-Modern Design | July 2024
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:60A5FA&height=150&section=header&text=Full-Stack+Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366f1,100:8b5cf6&height=150&section=header&text=ANONYMOUS&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=4000&pause=1000&color=3B82F6&center=true&width=800&lines=Hey+there!+👋;I'm+Siddhant+Timalsina;Robotics+•+Networking+•+Development" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=8b5cf6&center=true&width=800&lines=🛠️+Code+Artisan;🤖+Robotics+Enthusiast;🌐+Network+Alchemist;🚀+Open+Source+Contributor" alt="Typing Animation" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300" style="border-radius: 20px; border: 3px solid #8b5cf6" alt="Developer GIF"/>
 </p>
 
-## 🌐 Connect With Me
+## 🌍 Connect With Me
 
 <p align="center">
   <a href="mailto:siddhanttimalsina10@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e"/>
   </a>
-  <a href="https://linkedin.com/in/siddhant-timalsina">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://facebook.com/Siddhant.Timalsina.92">
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1e1e2e"/>
   </a>
   <a href="https://tiktok.com/@sid__ant">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok"/>
+    <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=1e1e2e"/>
   </a>
   <a href="https://youtube.com/@FEELTHEMUSICSID">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=1e1e2e"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,flutter,dart,firebase,linux,git,github,docker,arduino,raspberrypi&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,rust,flutter,dart,firebase,linux,git,github,docker,aws,arduino,raspberrypi,ai,ps,figma&perline=9" alt="Tech Stack"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Development Analytics
 
 <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-SIDD&show_icons=true&theme=blueberry&hide_border=true"/></td>
-      <td><img src="https://streak-stats.demolab.com?user=ANONYMOUS-SIDD&theme=blueberry&hide_border=true"/></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-SIDD&layout=compact&theme=blueberry&hide_border=true"/></td>
-    </tr>
-  </table>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem;">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ANONYMOUS-SIDD&show_icons=true&theme=nightowl&hide_border=true&bg_color=1e1e2e&title_color=8b5cf6&icon_color=8b5cf6)
+![Streak](https://streak-stats.demolab.com?user=ANONYMOUS-SIDD&theme=nightowl&hide_border=true&background=1e1e2e&ring=8b5cf6&fire=8b5cf6)
+
+  </div>
+  
+  ![Contribution Graph](https://raw.githubusercontent.com/ANONYMOUS-SIDD/ANONYMOUS-SIDD/main/profile-3d-contrib/profile-night-rainbow.svg)
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💬 Developer Wisdom
 
 <div align="center">
-  <a href="https://github.com/ANONYMOUS-SIDD/Robotics-Framework">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=Robotics-Framework&theme=blueberry&hide_border=true"/>
-  </a>
-  <a href="https://github.com/ANONYMOUS-SIDD/Network-Toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=Network-Toolkit&theme=blueberry&hide_border=true"/>
-  </a>
-</div>
-
----
-
-## 💡 Today's Insight
-
-<div align="center">
-  <blockquote style="padding: 1.5rem; background: rgba(59, 130, 246, 0.1); border-radius: 12px; border-left: 4px solid #3B82F6;">
-    <p>“The function of good software is to make the complex appear simple.”</p>
-    <cite>- Grady Booch</cite>
-  </blockquote>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=4000&pause=1000&color=8b5cf6&center=true&width=800&lines=🔮+“Any+fool+can+write+code+that+a+computer+can+understand.+Good+programmers+write+code+that+humans+can+understand.”+-+Martin+Fowler;⚡+“The+only+way+to+go+fast+is+to+go+well.”+-+Robert+C.+Martin;🎯+“Premature+optimization+is+the+root+of+all+evil.”+-+Donald+Knuth" alt="Random Quotes" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:3B82F6&height=150&section=footer&animation=fadeIn&fontSize=20&text=Thanks+for+visiting!+✨&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8b5cf6,100:6366f1&height=120&section=footer&text=Keep+Exploring+✨&fontSize=30&fontColor=ffffff&animation=twinkling" />
   
   <p>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=ANONYMOUS-SIDD.ANONYMOUS-SIDD" alt="Visitor Count"/>
-    <img src="https://img.shields.io/github/followers/ANONYMOUS-SIDD?label=Follow&style=social" alt="Followers"/>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ANONYMOUS-SIDD.ANONYMOUS-SIDD&style=flat-square&color=8b5cf6" alt="Visitor Count"/>
+    <img src="https://img.shields.io/github/followers/ANONYMOUS-SIDD?label=Follow&style=flat-square&color=8b5cf6" alt="Followers"/>
   </p>
 </div>

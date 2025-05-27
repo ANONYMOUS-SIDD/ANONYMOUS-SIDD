@@ -112,25 +112,32 @@ A passionate tech explorer, builder, and innovator.
 </div>
 
 ---
-<div align="center" style="margin-top: 44px;">
+<div align="center" style="margin-top: 48px;">
 
-  <a href="https://github.com/ANONYMOUS-SIDD" title="GitHub Profile" style="text-decoration: none; margin: 0 18px;">
-    <img src="https://komarev.com/ghpvc/?username=ANONYMOUS-SIDD&label=VISITORS&color=6d28d9&style=plastic" alt="Profile Views" height="38" style="border-radius: 14px; margin-bottom: 6px;"/>
-    <br>
-    <span style="font-size:1.09em;font-family:Space Grotesk, Fira Code, monospace; color:#6d28d9;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="20" style="vertical-align:middle; margin-right:6px;filter:invert(25%) sepia(80%) saturate(3500%) hue-rotate(240deg);" />
-      Profile
-    </span>
-  </a>
-
-  <a href="https://github.com/ANONYMOUS-SIDD?tab=followers" title="Followers" style="text-decoration: none; margin: 0 18px;">
-    <img src="https://img.shields.io/github/followers/ANONYMOUS-SIDD?color=312e81&label=FOLLOWERS&style=plastic" alt="Followers" height="38" style="border-radius: 14px; margin-bottom: 6px;"/>
-    <br>
-    <span style="font-size:1.09em;font-family:Space Grotesk, Fira Code, monospace; color:#312e81;">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/users.svg" width="20" style="vertical-align:middle; margin-right:6px;filter:invert(12%) sepia(80%) saturate(3500%) hue-rotate(240deg);" />
-      Followers
-    </span>
-  </a>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td align="center" style="padding: 0 24px;">
+        <a href="https://github.com/ANONYMOUS-SIDD" title="GitHub Profile" style="text-decoration:none;">
+          <img src="https://komarev.com/ghpvc/?username=ANONYMOUS-SIDD&label=PROFILE+VIEWS&color=6d28d9&style=for-the-badge" alt="Profile Views" height="40" style="margin-bottom: 6px;"/>
+          <br>
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="26" style="margin-right:8px;vertical-align:middle;opacity:0.78;"/>
+          <span style="font-size:1.08em;font-family:Space Grotesk, Fira Code, monospace; color:#6d28d9; vertical-align:middle;">
+            Profile
+          </span>
+        </a>
+      </td>
+      <td align="center" style="padding: 0 24px;">
+        <a href="https://github.com/ANONYMOUS-SIDD?tab=followers" title="Followers" style="text-decoration:none;">
+          <img src="https://img.shields.io/github/followers/ANONYMOUS-SIDD?color=312e81&label=FOLLOWERS&style=for-the-badge" alt="Followers" height="40" style="margin-bottom: 6px;"/>
+          <br>
+          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/users.svg" width="26" style="margin-right:8px;vertical-align:middle;opacity:0.78;"/>
+          <span style="font-size:1.08em;font-family:Space Grotesk, Fira Code, monospace; color:#312e81; vertical-align:middle;">
+            Followers
+          </span>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -139,7 +146,7 @@ A passionate tech explorer, builder, and innovator.
 <div align="center" style="margin-top: 26px;">
   <h3 style="font-family:'Space Grotesk', Fira Code, monospace; color:#8b5cf6; font-size: 1.5rem; font-weight: bold;">
     🙏 Thank you for visiting my GitHub! 🚀<br>
-    <span style="font-size:1.1rem;color:#6366f1;">
+    <span style="font-size:1.1rem;color:#6366f1;"><br>
       If you enjoyed, connect or follow for more exciting projects!
     </span>
   </h3>

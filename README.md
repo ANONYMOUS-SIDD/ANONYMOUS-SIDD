@@ -30,23 +30,32 @@ A passionate tech explorer, builder, and innovator.
 ---
 ## 🌍 Connect With Me
 
-<p align="center">
-  <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer" style="margin: 0 16px; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" />
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 24px; justify-content: center;">
+
+  <a href="mailto:siddhanttimalsina10@gmail.com" title="Email" target="_blank" rel="noopener noreferrer" style="margin: 0 18px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="42" style="border-radius: 12px; box-shadow: 0 2px 8px #e5393540; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   
-  <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook" target="_blank" rel="noopener noreferrer" style="margin: 0 16px; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" />
+  <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook" target="_blank" rel="noopener noreferrer" style="margin: 0 18px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="42" style="border-radius: 12px; box-shadow: 0 2px 8px #1877f240; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   
-  <a href="https://tiktok.com/@sid__ant" title="TikTok" target="_blank" rel="noopener noreferrer" style="margin: 0 16px; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="40" />
+  <a href="https://tiktok.com/@sid__ant" title="TikTok" target="_blank" rel="noopener noreferrer" style="margin: 0 18px;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" width="42" style="border-radius: 12px; background: #fff; box-shadow: 0 2px 8px #00000020; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   
-  <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" target="_blank" rel="noopener noreferrer" style="margin: 0 16px; text-decoration: none;">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="40" />
+  <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" target="_blank" rel="noopener noreferrer" style="margin: 0 18px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/youtube/youtube-original.svg" alt="YouTube" width="42" style="border-radius: 12px; box-shadow: 0 2px 8px #ff000040; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
+
+<style>
+  /* Fallback: If GitHub markdown doesn't support onmouseover, use hover effect in dark style previewers */
+  a:hover img {
+    transform: scale(1.1);
+    box-shadow: 0 6px 18px #00000030;
+  }
+</style>
 
 
 

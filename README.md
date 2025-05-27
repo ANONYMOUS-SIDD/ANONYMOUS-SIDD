@@ -93,6 +93,19 @@ A passionate tech explorer, builder, and innovator.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANONYMOUS-SIDD&theme=react-dark&bg_color=1e1e2e&color=8b5cf6&line=6366f1&point=8b5cf6&area=true&hide_border=true" width="98%" alt="Contribution Graph" style="border-radius: 18px;"/>
 </div>
 
+## 📊 GitHub Analytics
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-bottom: 25px;">
+  <!-- Each of these two stats is set to half height and width of the main graph below -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-SIDD&show_icons=true&theme=nightowl&hide_border=true&bg_color=1e1e2e&title_color=8b5cf6&icon_color=8b5cf6&custom_title=My+GitHub+Stats" alt="GitHub Stats" height="90" width="270"/>
+  <img src="https://streak-stats.demolab.com?user=ANONYMOUS-SIDD&theme=nightowl&hide_border=true&background=1e1e2e&ring=8b5cf6&fire=8b5cf6&currstreak_bg=1e1e2e&side_main=8b5cf6&side_shadow=6366f1&stroke=8b5cf6&dates=6366f1" alt="GitHub Streak" height="90" width="270"/>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <!-- Main graph is twice as high and wide as the above images -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANONYMOUS-SIDD&theme=react-dark&bg_color=1e1e2e&color=8b5cf6&line=6366f1&point=8b5cf6&area=true&hide_border=true" width="540" height="180" alt="Contribution Graph" style="border-radius: 18px;"/>
+</div>
+
 ---
 
 ## 🏆 Most Used Languages

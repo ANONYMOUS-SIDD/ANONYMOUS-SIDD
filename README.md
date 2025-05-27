@@ -33,7 +33,7 @@ A passionate tech explorer, builder, and innovator.
 <p align="center" style="margin-top: 20px;">
 
   <!-- Gmail (Modern, official logo SVG) -->
-<div align="center" style="margin-top: 10px;">
+
   <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="36" style="margin: 0 12px;"/>
   </a>

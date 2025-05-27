@@ -1,11 +1,12 @@
 <div align="center">
   <p>
     <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=6366f1&width=700&center=true&vCenter=true&lines=It's+Me+Siddhant+Timalsina;🛠️+Code+Artisan+%F0%9F%9B%A0%EF%B8%8F;🤖+Robotics+Enthusiast+%F0%9F%A4%96;🌐+Network+Alchemist+%F0%9F%8C%90;🚀+Open+Source+Contributor+%F0%9F%9A%80;💻+Tech+Explorer+%F0%9F%92%BB;🎨+Creative+Coder+%F0%9F%8E%A8"
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=800&color=1abc9c&width=700&center=true&vCenter=true&lines=👋+✨+It's+Me+Siddhant+Timalsina;🛠️+Code+Artisan+%F0%9F%9B%A0%EF%B8%8F;🤖+Robotics+Enthusiast+%F0%9F%A4%96;🌐+Network+Alchemist+%F0%9F%8C%90;🚀+Open+Source+Contributor+%F0%9F%9A%80;💻+Tech+Explorer+%F0%9F%92%BB;🎨+Creative+Coder+%F0%9F%8E%A8"
       alt="Name and Interests Animated" 
     />
   </p>
 </div>
+
 
 
 ---

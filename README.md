@@ -113,15 +113,14 @@ A passionate tech explorer, builder, and innovator.
 
 ---
 <br/>
-
-<div align="center" style="margin-top: 10px;">
+<div align="center" style="margin-top: 18px;">
 
   <h2 style="font-family:'Space Grotesk', Fira Code, monospace; color:#8b5cf6; font-size: 2.1rem; font-weight: bold; margin-bottom: 0;">
     🙏 Thank You for Visiting My GitHub! 🚀
   </h2>
-  <p style="font-size:1.16rem; color:#6366f1; font-family:'Space Grotesk', Fira Code, monospace; margin-top: 18px;">
+  <p style="font-size:1.16rem; color:#6366f1; font-family:'Space Grotesk', Fira Code, monospace; margin-top: 14px;">
     If you enjoyed my work, connect or follow for more<br>
     <b>exciting projects, open source magic, and creative code!</b>
   </p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1200&color=8b5cf6&center=true&width=600&lines=Happy+Coding!;Keep+Building!;Stay+Curious!;See+You+Around+on+GitHub!" alt="Thank You Animation" style="margin-top:12px;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1200&color=8b5cf6&center=true&width=600&lines=Happy+Coding!;Keep+Building!;Stay+Curious!;See+You+Around+on+GitHub!" alt="Thank You Animation" style="margin-top:10px;"/>
 </div>

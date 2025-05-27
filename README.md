@@ -1,50 +1,44 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=48&duration=2500&pause=1000&color=8b5cf6&center=true&width=600&lines=Hey+Anonymous!&repeat=false&vCenter=true" alt="Hey Anonymous Animated" />
-  </h1>
+
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=6366f1&width=700&center=true&vCenter=true&lines=Siddhant+Timalsina;Code+Artisan+%F0%9F%9B%A0%EF%B8%8F;Robotics+Enthusiast+%F0%9F%A4%96;Network+Alchemist+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%9A%80" alt="Name and Interests Animated"/>
   </p>
-  <img src="https://media.giphy.com/media/v1.LdC6qj0w2/giphy.gif" width="180" style="border-radius: 50%; border: 3px solid #8b5cf6; margin-top: 20px;" alt="Coding GIF"/>
 </div>
 
 ---
 
 ## 🚀 About Me
+Hey there, I'm Siddhant Timalsina 👋  
+A passionate tech explorer, builder, and innovator.
 
-Greetings! I'm **Siddhant Timalsina**, a passionate **Code Artisan** with a knack for crafting robust and elegant solutions. My journey in the tech world is driven by a deep curiosity and a relentless pursuit of knowledge. I thrive on challenges, from architecting complex systems to diving deep into the intricacies of hardware and software.
+- 💡 Always curious — I love turning ideas into reality through code.
+- 🤖 Robotics Enthusiast — automating the future, one circuit at a time.
+- 🌐 Network Alchemist — diving into systems, protocols, and infrastructure.
+- 🚀 Open Source Contributor — sharing knowledge and building in public.
+- 🔐 Linux Devotee — minimalism, customization, and full control.
+- 🎯 Currently diving deep into **Flutter**, **Go**, and **Rust**.
 
-* **What I do:** I specialize in bringing ideas to life through code, with a particular interest in **robotics**, **network alchemy**, and contributing to **open-source projects**. I believe in writing clean, efficient, and human-readable code.
-* **My Philosophy:** I'm a firm believer in continuous learning and the power of collaboration. Every bug is a lesson, and every successful deployment is a testament to perseverance.
-* **Outside of Code:** When I'm not coding, you can find me exploring new technologies, contributing to developer communities, or diving into a good book.
+🔍 Unknown, 👁️‍🗨️ Unseen, but 🚀 Unstoppable — the code writes my legacy.
 
 ---
 
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail" style="margin: 0 8px;">
+  <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail" style="margin: 0 12px;">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/siddhant-timalsina/" title="LinkedIn" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" />
-  </a>
-  <a href="https://x.com/sid__ant" title="X / Twitter" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" width="40" />
-  </a>
-  <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook" style="margin: 0 8px;">
+  <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook" style="margin: 0 12px;">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" />
   </a>
-  <a href="https://instagram.com/sid__ant" title="Instagram" style="margin: 0 8px;">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" />
-  </a>
-  <a href="https://tiktok.com/@sid__ant" title="TikTok" style="margin: 0 8px;">
+  <a href="https://tiktok.com/@sid__ant" title="TikTok" style="margin: 0 12px;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" alt="TikTok" width="40" />
   </a>
-  <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" style="margin: 0 8px;">
+  <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" style="margin: 0 12px;">
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="40" />
   </a>
 </p>
+
 
 ---
 
@@ -77,15 +71,6 @@ Greetings! I'm **Siddhant Timalsina**, a passionate **Code Artisan** with a knac
 
 ---
 
-## ✨ My Latest Projects
-
-Here are a few highlights of my recent work. Feel free to explore and provide feedback!
-
-* **[Project Name 1]**: A brief description of Project 1. (e.g., "A real-time data visualization tool built with Flutter and Firebase.")
-* **[Project Name 2]**: A brief description of Project 2. (e.g., "An autonomous robotics platform utilizing Raspberry Pi and Python for object detection.")
-* **[Project Name 3]**: A brief description of Project 3. (e.g., "A network monitoring solution developed in Go, providing insights into traffic patterns.")
-
----
 
 ## 💬 Developer Wisdom
 

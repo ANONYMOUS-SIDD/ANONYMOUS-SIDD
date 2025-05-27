@@ -24,27 +24,33 @@ A passionate tech explorer, builder, and innovator.
 
 ---
 
-🔍 **Unknown**, 👁️‍🗨️ **Unseen**, but 🚀 **Unstoppable** — the code writes my legacy.
+🔍 **Unknown** 👁️‍🗨️ **Unseen** but 🚀 **Unstoppable** — the code writes my legacy.
 
 
 ---
 
 ## 🌍 Connect With Me
 
-<p align="center">
-  <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail" style="margin: 0 12px;">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" />
+<p align="center" style="display:flex; justify-content:center; gap:24px;">
+
+  <a href="mailto:siddhanttimalsina10@gmail.com" title="Email" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" />
   </a>
-  <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook" style="margin: 0 12px;">
+
+  <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="40" />
   </a>
-  <a href="https://tiktok.com/@sid__ant" title="TikTok" style="margin: 0 12px;">
+
+  <a href="https://tiktok.com/@sid__ant" title="TikTok" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/tiktok.svg" alt="TikTok" width="40" />
   </a>
-  <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" style="margin: 0 12px;">
+
+  <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=youtube" alt="YouTube" width="40" />
   </a>
+
 </p>
+
 
 
 ---

@@ -126,20 +126,14 @@ A passionate tech explorer, builder, and innovator.
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1200&color=8b5cf6&center=true&width=550&lines=Happy+Coding!;Keep+Building!;Stay+Curious!;See+You+Around+on+GitHub!;Let%27s+Create+Something+Awesome+Together!" alt="Thank You Animation" style="margin-top:8px;"/>
   
-  <div style="margin-top: 16px;">
-    <a href="https://github.com/ANONYMOUS-SIDD?tab=followers" style="margin: 0 8px; text-decoration: none;">
-      <img src="https://img.shields.io/github/followers/ANONYMOUS-SIDD?color=8b5cf6&label=Follow%20me%20on%20GitHub&style=for-the-badge" alt="GitHub Followers"/>
-    </a>
-    <a href="https://twitter.com/" style="margin: 0 8px; text-decoration: none;">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/>
-    </a>
-    <a href="https://www.linkedin.com/in/" style="margin: 0 8px; text-decoration: none;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:siddhanttimalsina10@gmail.com" style="margin: 0 8px; text-decoration: none;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
-    </a>
-  </div>
+<div align="center" style="margin-top: 18px;">
 
-</div>You Animation" style="margin-top:10px;"/>
+  <h2 style="font-family:'Space Grotesk', Fira Code, monospace; color:#8b5cf6; font-size: 2.1rem; font-weight: bold; margin-bottom: 0;">
+    🙏 Thank You for Visiting My GitHub! 🚀
+  </h2>
+  <p style="font-size:1.16rem; color:#6366f1; font-family:'Space Grotesk', Fira Code, monospace; margin-top: 14px;">
+    If you enjoyed my work, connect or follow for more<br>
+    <b>exciting projects, open source magic, and creative code!</b>
+  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=22&pause=1200&color=8b5cf6&center=true&width=600&lines=Happy+Coding!;Keep+Building!;Stay+Curious!;See+You+Around+on+GitHub!" alt="Thank You Animation" style="margin-top:10px;"/>
 </div>

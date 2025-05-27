@@ -10,19 +10,22 @@
 
 
 ---
-
 ## 🚀 About Me
-Hey there, I'm Siddhant Timalsina 👋  
+
+Hey there, I'm **Siddhant Timalsina** 👋  
 A passionate tech explorer, builder, and innovator.
 
-- 💡 Always curious — I love turning ideas into reality through code.
-- 🤖 Robotics Enthusiast — automating the future, one circuit at a time.
-- 🌐 Network Alchemist — diving into systems, protocols, and infrastructure.
-- 🚀 Open Source Contributor — sharing knowledge and building in public.
-- 🔐 Linux Devotee — minimalism, customization, and full control.
-- 🎯 Currently diving deep into **Flutter**, **Go**, and **Rust**.
+- 💡 **Curious Mind:** Always eager to turn ideas into reality through clean, efficient code.  
+- 🤖 **Robotics Enthusiast:** Automating the future, one circuit at a time.  
+- 🌐 **Network Alchemist:** Diving deep into systems, protocols, and infrastructure.  
+- 🚀 **Open Source Contributor:** Sharing knowledge and building in public.  
+- 🔐 **Linux Devotee:** Embracing minimalism, customization, and full control.  
+- 🎯 **Currently Exploring:** *Flutter*, *Go*, and *Rust* — mastering the future of development.
 
-🔍 Unknown, 👁️‍🗨️ Unseen, but 🚀 Unstoppable — the code writes my legacy.
+---
+
+🔍 **Unknown**, 👁️‍🗨️ **Unseen**, but 🚀 **Unstoppable** — the code writes my legacy.
+
 
 ---
 

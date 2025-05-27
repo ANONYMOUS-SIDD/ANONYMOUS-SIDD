@@ -31,23 +31,23 @@ A passionate tech explorer, builder, and innovator.
 ## 🌍 Connect With Me
 
 <p align="center" style="margin-top: 20px;">
-  
-  <!-- Gmail (Envelope with red color and '@') -->
+
+  <!-- Gmail (Modern, official logo SVG) -->
   <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="[https://cdn-icons-png.flaticon.com/512/561/561127.png](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/gmail-new-logo)" alt="Gmail" width="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="42" />
   </a>
 
-  <!-- Facebook -->
+  <!-- Facebook (Modern icon) -->
   <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="42" />
   </a>
 
-  <!-- TikTok (Stylish dark logo with note and color gradients) -->
+  <!-- TikTok (Official latest logo) -->
   <a href="https://tiktok.com/@sid__ant" title="TikTok" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="[https://cdn-icons-png.flaticon.com/512/3046/3046125.png](https://www.freepik.com/free-photos-vectors/tiktok-logo-png)" alt="TikTok" width="42" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" alt="TikTok" width="42" />
   </a>
 
-  <!-- YouTube -->
+  <!-- YouTube (Flat modern icon) -->
   <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="42" />
   </a>

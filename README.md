@@ -34,7 +34,7 @@ A passionate tech explorer, builder, and innovator.
   
   <!-- Gmail (Envelope with red color and '@') -->
   <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Gmail" width="42" />
+    <img src="[https://cdn-icons-png.flaticon.com/512/561/561127.png](https://www.stickpng.com/img/icons-logos-emojis/tech-companies/gmail-new-logo)" alt="Gmail" width="42" />
   </a>
 
   <!-- Facebook -->
@@ -44,7 +44,7 @@ A passionate tech explorer, builder, and innovator.
 
   <!-- TikTok (Stylish dark logo with note and color gradients) -->
   <a href="https://tiktok.com/@sid__ant" title="TikTok" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046125.png" alt="TikTok" width="42" />
+    <img src="[https://cdn-icons-png.flaticon.com/512/3046/3046125.png](https://www.freepik.com/free-photos-vectors/tiktok-logo-png)" alt="TikTok" width="42" />
   </a>
 
   <!-- YouTube -->

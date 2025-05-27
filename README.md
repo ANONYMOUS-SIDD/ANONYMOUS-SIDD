@@ -47,7 +47,7 @@ A passionate tech explorer, builder, and innovator.
       </td>
       <td align="center">
         <a href="https://tiktok.com/@sid__ant" title="TikTok" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" width="50" style="border-radius:14px; background:#fff; padding:8px;" />
+          <img src="https://cdn-icons-png.flaticon.com/512/3046/3046121.png" alt="TikTok" width="50" style="border-radius:14px; background:#fff; padding:8px;" />
         </a>
         <div style="font-size:1rem;color:#111;font-weight:700;margin-top:7px;font-family:Space Grotesk, Fira Code, monospace;">TikTok</div>
       </td>

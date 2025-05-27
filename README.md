@@ -35,25 +35,25 @@ A passionate tech explorer, builder, and innovator.
     <tr>
       <td align="center">
         <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer">
-          <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" style="border-radius:14px; box-shadow:0 2px 10px #ea433550; background:#fff; padding:8px; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.12)';" onmouseout="this.style.transform='scale(1)';"/>
+          <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" style="border-radius:14px; background:#fff; padding:8px;" />
         </a>
         <div style="font-size:1rem;color:#ea4335;font-weight:700;margin-top:7px;font-family:Space Grotesk, Fira Code, monospace;">Gmail</div>
       </td>
       <td align="center">
         <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="50" style="border-radius:14px; box-shadow:0 2px 10px #1877f255; background:#fff; padding:8px; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.12)';" onmouseout="this.style.transform='scale(1)';"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="50" style="border-radius:14px; background:#fff; padding:8px;" />
         </a>
         <div style="font-size:1rem;color:#1877f2;font-weight:700;margin-top:7px;font-family:Space Grotesk, Fira Code, monospace;">Facebook</div>
       </td>
       <td align="center">
         <a href="https://tiktok.com/@sid__ant" title="TikTok" target="_blank" rel="noopener noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/TikTok_logo.svg" alt="TikTok" width="50" style="border-radius:14px; box-shadow:0 2px 10px #00000033; background:#fff; padding:8px; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.12)';" onmouseout="this.style.transform='scale(1)';"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/3046/3046122.png" alt="TikTok" width="50" style="border-radius:14px; background:#fff; padding:8px;" />
         </a>
         <div style="font-size:1rem;color:#111;font-weight:700;margin-top:7px;font-family:Space Grotesk, Fira Code, monospace;">TikTok</div>
       </td>
       <td align="center">
         <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" target="_blank" rel="noopener noreferrer">
-          <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" style="border-radius:14px; box-shadow:0 2px 10px #ff000055; background:#fff; padding:8px; transition:transform 0.2s;" onmouseover="this.style.transform='scale(1.12)';" onmouseout="this.style.transform='scale(1)';"/>
+          <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="50" style="border-radius:14px; background:#fff; padding:8px;" />
         </a>
         <div style="font-size:1rem;color:#ff0000;font-weight:700;margin-top:7px;font-family:Space Grotesk, Fira Code, monospace;">YouTube</div>
       </td>

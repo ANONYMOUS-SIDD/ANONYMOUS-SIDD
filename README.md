@@ -112,17 +112,26 @@ A passionate tech explorer, builder, and innovator.
 </div>
 
 ---
-<div align="center" style="margin-top: 40px; display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center;">
-  <!-- Profile Views Card -->
-  <a href="https://github.com/ANONYMOUS-SIDD" title="GitHub Profile" style="text-decoration: none;">
-    <img src="https://komarev.com/ghpvc/?username=ANONYMOUS-SIDD&label=Profile+Views&color=8b5cf6&style=flat-square" alt="Profile Views" height="36" style="border-radius: 10px; box-shadow: 0 2px 14px #8b5cf650; margin: 0 10px;"/>
-    <div style="font-size:0.98rem; color:#8b5cf6; font-family:'Space Grotesk', Fira Code, monospace; margin-top:4px;">Profile Views</div>
+<div align="center" style="margin-top: 44px;">
+
+  <a href="https://github.com/ANONYMOUS-SIDD" title="GitHub Profile" style="text-decoration: none; margin: 0 18px;">
+    <img src="https://komarev.com/ghpvc/?username=ANONYMOUS-SIDD&label=VISITORS&color=6d28d9&style=plastic" alt="Profile Views" height="38" style="border-radius: 14px; margin-bottom: 6px;"/>
+    <br>
+    <span style="font-size:1.09em;font-family:Space Grotesk, Fira Code, monospace; color:#6d28d9;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/github.svg" width="20" style="vertical-align:middle; margin-right:6px;filter:invert(25%) sepia(80%) saturate(3500%) hue-rotate(240deg);" />
+      Profile
+    </span>
   </a>
-  <!-- Followers Card -->
-  <a href="https://github.com/ANONYMOUS-SIDD?tab=followers" title="Followers" style="text-decoration: none;">
-    <img src="https://img.shields.io/github/followers/ANONYMOUS-SIDD?color=6366f1&label=Followers&style=flat-square" alt="Followers" height="36" style="border-radius: 10px; box-shadow: 0 2px 14px #6366f150; margin: 0 10px;"/>
-    <div style="font-size:0.98rem; color:#6366f1; font-family:'Space Grotesk', Fira Code, monospace; margin-top:4px;">Followers</div>
+
+  <a href="https://github.com/ANONYMOUS-SIDD?tab=followers" title="Followers" style="text-decoration: none; margin: 0 18px;">
+    <img src="https://img.shields.io/github/followers/ANONYMOUS-SIDD?color=312e81&label=FOLLOWERS&style=plastic" alt="Followers" height="38" style="border-radius: 14px; margin-bottom: 6px;"/>
+    <br>
+    <span style="font-size:1.09em;font-family:Space Grotesk, Fira Code, monospace; color:#312e81;">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/users.svg" width="20" style="vertical-align:middle; margin-right:6px;filter:invert(12%) sepia(80%) saturate(3500%) hue-rotate(240deg);" />
+      Followers
+    </span>
   </a>
+
 </div>
 
 <br/>

@@ -1,97 +1,92 @@
-<!-- 🌌️ MODERNIZED & AESTHETIC GITHUB README for Siddhant Timalsina ✨️🌌 -->
-<!-- Designed and enhanced by Copilot + ChatGPT, 2025 -->
+<!-- 
+  🚀 Siddhant Timalsina's GitHub Profile
+  Modern Professional Design | July 2024
+-->
 
-<!-- Hacker intro video at top (optional: upload video) -->
-<p align="center">
-  <video width="100%" height="auto" autoplay muted loop style="border-radius: 12px; max-width: 720px;">
-    <source src="YOUR_HACKER_VIDEO.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:60A5FA&height=150&section=header&text=Full-Stack+Developer&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</div>
 
-<!-- Typing SVG Header Modernized -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&lines=Hi%2C+I'm+Siddhant+Timalsina!;Tech+Alchemist+%F0%9F%94%AE+in+training...;Breaking+%26+Building+since+Day+1%F0%9F%9A%80;Exploring+Code+%E2%80%A2+Creating+Magic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=36&duration=4000&pause=1000&color=3B82F6&center=true&width=800&lines=Hey+there!+👋;I'm+Siddhant+Timalsina;Robotics+•+Networking+•+Development" alt="Typing Animation" />
 </h1>
 
-<!-- Sleek Header Capsule -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=58A6FF&height=160&section=header&text=Welcome%20to%20My%20Digital%20Lab&fontSize=30&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
 </p>
 
-<br />
-
-<!-- About Me -->
-## 🌟 About Me
-
-> *"Turning ideas into interactive reality, one pixel and logic gate at a time."*
-
-- 🎓 Computer Engineering Student • 🧑‍🔬 Tech Explorer  
-- 🤖 Robotics, Programming, and Networking Enthusiast  
-- 🔭 Always tinkering with new tech & creative code  
-- 🌱 Lifelong learner, evolving with every keystroke  
-- 💡 Open Source Contributor • Code Philosopher  
-- 🚀 Let’s build, break, and innovate together!  
-
----
-
-## 🔗 Connect & Explore
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:siddhanttimalsina10@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" title="Gmail"/></a>
-  <a href="https://facebook.com/Siddhant.Timalsina.92"><img src="https://img.icons8.com/fluency/48/facebook-new.png" title="Facebook"/></a>
-  <a href="https://tiktok.com/@sid__ant"><img src="https://img.icons8.com/fluency/48/tiktok.png" title="TikTok"/></a>
-  <a href="https://youtube.com/@FEELTHEMUSICSID"><img src="https://img.icons8.com/fluency/48/youtube-play.png" title="YouTube"/></a>
-</p>
-
----
-
-## 💼 Featured Projects
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANONYMOUS-SIDD&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
-</p>
-
-<div align="center">
-  <a href="https://github.com/ANONYMOUS-SIDD/your-cool-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=your-cool-project&theme=tokyonight&hide_border=true" />
+  <a href="mailto:siddhanttimalsina10@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/ANONYMOUS-SIDD/another-amazing-repo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=another-amazing-repo&theme=tokyonight&hide_border=true" />
+  <a href="https://linkedin.com/in/siddhant-timalsina">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tiktok.com/@sid__ant">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
+  <a href="https://youtube.com/@FEELTHEMUSICSID">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,go,js,ts,flutter,dart,firebase,linux,git,github,docker,arduino,raspberrypi&perline=8" alt="Tech Stack"/>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-SIDD&show_icons=true&theme=blueberry&hide_border=true"/></td>
+      <td><img src="https://streak-stats.demolab.com?user=ANONYMOUS-SIDD&theme=blueberry&hide_border=true"/></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-SIDD&layout=compact&theme=blueberry&hide_border=true"/></td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/ANONYMOUS-SIDD/Robotics-Framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=Robotics-Framework&theme=blueberry&hide_border=true"/>
+  </a>
+  <a href="https://github.com/ANONYMOUS-SIDD/Network-Toolkit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=Network-Toolkit&theme=blueberry&hide_border=true"/>
   </a>
 </div>
 
 ---
 
-## 🚀 Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,html,flutter,firebase,linux,git,github,raylib,apache,canva,figma,vscode,arduino"/>
-</p>
-
----
-
-## 📊 GitHub Stats & Insights
+## 💡 Today's Insight
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-SIDD&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://streak-stats.demolab.com?user=ANONYMOUS-SIDD&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-SIDD&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=ANONYMOUS-SIDD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180"/>
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Dev Quote" style="border-radius: 12px;"/>
+  <blockquote style="padding: 1.5rem; background: rgba(59, 130, 246, 0.1); border-radius: 12px; border-left: 4px solid #3B82F6;">
+    <p>“The function of good software is to make the complex appear simple.”</p>
+    <cite>- Grady Booch</cite>
+  </blockquote>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=14e5e7&height=160&section=footer&text=Happy%20Coding%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
-  <br /><br />
-  <strong>Stay curious. Stay creative.</strong> 🌟
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,100:3B82F6&height=150&section=footer&animation=fadeIn&fontSize=20&text=Thanks+for+visiting!+✨&fontColor=ffffff" />
+  
+  <p>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=ANONYMOUS-SIDD.ANONYMOUS-SIDD" alt="Visitor Count"/>
+    <img src="https://img.shields.io/github/followers/ANONYMOUS-SIDD?label=Follow&style=social" alt="Followers"/>
+  </p>
 </div>

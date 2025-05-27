@@ -28,7 +28,6 @@ A passionate tech explorer, builder, and innovator.
 
 
 ---
-<h2 align="center">🌍 Connect With Me</h2>
 ## 🌍 Connect With Me
 
 <p align="center">

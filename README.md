@@ -113,7 +113,7 @@ A passionate tech explorer, builder, and innovator.
 
 ---
 <br/>
-<div align="center" style="margin-top: 18px;">
+<div align="center">
 
   <h2 style="font-family:'Space Grotesk', Fira Code, monospace; color:#8b5cf6; font-size: 2.1rem; font-weight: bold; margin-bottom: 0;">
     🙏 Thank You for Visiting My GitHub! 🚀

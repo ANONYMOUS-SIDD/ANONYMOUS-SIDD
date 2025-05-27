@@ -30,10 +30,11 @@ A passionate tech explorer, builder, and innovator.
 ---
 ## 🌍 Connect With Me
 
-<p align="center">
-  <!-- Gmail -->
+<p align="center" style="margin-top: 20px;">
+  
+  <!-- Gmail (Envelope with red color and '@') -->
   <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Gmail" width="42" />
+    <img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="Gmail" width="42" />
   </a>
 
   <!-- Facebook -->
@@ -41,16 +42,18 @@ A passionate tech explorer, builder, and innovator.
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="42" />
   </a>
 
-  <!-- TikTok -->
+  <!-- TikTok (Stylish dark logo with note and color gradients) -->
   <a href="https://tiktok.com/@sid__ant" title="TikTok" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/3669/3669950.png" alt="TikTok" width="42" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3046/3046125.png" alt="TikTok" width="42" />
   </a>
 
   <!-- YouTube -->
   <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube" target="_blank" rel="noopener noreferrer" style="margin: 0 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" width="42" />
   </a>
+
 </p>
+
 
 
 

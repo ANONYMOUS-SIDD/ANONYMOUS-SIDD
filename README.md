@@ -1,121 +1,97 @@
-<!-- 
-  🟢 CYBER HACKER THEME README for Siddhant Timalsina 🟢
-  Designed in 2025 for a dark cyberpunk/hacker terminal vibe. 
-  (All new, original layout & UI, strong animation and modern cyber aesthetic)
--->
+<!-- 🌌️ MODERNIZED & AESTHETIC GITHUB README for Siddhant Timalsina ✨️🌌 -->
+<!-- Designed and enhanced by Copilot + ChatGPT, 2025 -->
 
-<!-- TOP ANIMATED HACKER BANNER (replace with your own video/gif link if desired) -->
-<p align="center" style="margin-bottom: -18px;">
-  <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="96%" style="border-radius:22px; box-shadow:0 0 44px #00ffb388;" alt="hacker cyber animation"/>
+<!-- Hacker intro video at top (optional: upload video) -->
+<p align="center">
+  <video width="100%" height="auto" autoplay muted loop style="border-radius: 12px; max-width: 720px;">
+    <source src="YOUR_HACKER_VIDEO.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </p>
 
-<!-- CYBER TERMINAL HEADER -->
-<div align="center" style="background:#111d16;border-radius:22px;padding:38px 12px 30px 12px;box-shadow:0 0 44px #00ffb366;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=30&pause=800&color=00FFB3&background=111d1600&center=true&vCenter=true&width=630&lines=%24+whoami;Siddhant+Timalsina;Cyber+Builder+%2F+Codebreaker;Open+Source+%7C+Automation+%7C+Robotics;Hack+the+Future+with+Me!" alt="Hacker Typing SVG" />
-  <br>
-  <span style="font-family:monospace;letter-spacing:1px;color:#00ffb3;font-size:1.14em;">
-    <b>status:</b> <span style="background:#00ffb333;color:#fff;padding:2px 10px 2px 10px;border-radius:8px;">root@cyberdeck:~$</span>
-  </span>
-</div>
+<!-- Typing SVG Header Modernized -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&lines=Hi%2C+I'm+Siddhant+Timalsina!;Tech+Alchemist+%F0%9F%94%AE+in+training...;Breaking+%26+Building+since+Day+1%F0%9F%9A%80;Exploring+Code+%E2%80%A2+Creating+Magic" alt="Typing SVG" />
+</h1>
 
----
-
-<!-- CYBER CONTACT ICONS (NEON GLOW) -->
-<div align="center" style="margin:24px 0 12px 0;">
-  <a href="mailto:siddhanttimalsina10@gmail.com" title="Gmail">
-    <img src="https://img.icons8.com/nolan/48/gmail-new.png" width="40" style="margin:10px;filter:drop-shadow(0 0 10px #00ffb3);" />
-  </a>
-  <a href="https://facebook.com/Siddhant.Timalsina.92" title="Facebook">
-    <img src="https://img.icons8.com/nolan/48/facebook.png" width="40" style="margin:10px;filter:drop-shadow(0 0 10px #00ffb3);" />
-  </a>
-  <a href="https://tiktok.com/@sid__ant" title="TikTok">
-    <img src="https://img.icons8.com/nolan/48/tiktok.png" width="40" style="margin:10px;filter:drop-shadow(0 0 10px #00ffb3);" />
-  </a>
-  <a href="https://youtube.com/@FEELTHEMUSICSID" title="YouTube">
-    <img src="https://img.icons8.com/nolan/48/youtube-play.png" width="40" style="margin:10px;filter:drop-shadow(0 0 10px #00ffb3);" />
-  </a>
-</div>
-
----
-
-<!-- ABOUT ME: CYBER TERMINAL -->
-<pre align="center" style="color:#00FFB3; background:#0b1510; padding:22px 32px;border-radius:18px;font-size:1.07em;box-shadow:0 2px 34px #00ffb366;">
-<b>about:me$</b>
-"01000011 01101111 01100100 01100101 00100000 01101001 01110011 00100000 01100001 01110010 01110100."
-- 🟢 Digital tinker, hardware hacker, code breaker
-- 🟢 Robotics, networks, system design, and automation
-- 🟢 Always learning, always experimenting
-- 🟢 Open source is my playground
-</pre>
-
----
-
-<!-- CYBER TECH STACK -->
-<div align="center" style="background:#101a13;border-radius:20px;padding:18px 0 8px 0;box-shadow:0 2px 24px #00ffb366;">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,html,flutter,firebase,linux,git,github,arduino,vscode&perline=8" />
-  <br>
-  <img src="https://img.shields.io/badge/Robotics-%2300FFB3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Networking-%2300FFB3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System%20Programming-%2300FFB3?style=flat-square"/>
-</div>
-
----
-
-<!-- PROJECTS CYBER SECTION -->
-<p align="center" style="margin-bottom:10px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB3,100:191d1a&height=80&section=header&text=ls%20~/projects&fontAlign=50&fontAlignY=40&fontSize=28&stroke=00FFB3&strokeWidth=2&reversal=true" width="74%" style="border-radius:15px;box-shadow:0 2px 18px #00ffb388;"/>
+<!-- Sleek Header Capsule -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=58A6FF&height=160&section=header&text=Welcome%20to%20My%20Digital%20Lab&fontSize=30&fontAlign=50&fontColor=ffffff&animation=fadeIn" />
 </p>
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ANONYMOUS-SIDD/your-cool-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=your-cool-project&theme=react&bg_color=0,181d19,00FFB3&hide_border=true&title_color=00FFB3&text_color=fff" width="98%" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github.com/ANONYMOUS-SIDD/another-amazing-repo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=another-amazing-repo&theme=react&bg_color=0,181d19,00FFB3&hide_border=true&title_color=00FFB3&text_color=fff" width="98%" />
-      </a>
-    </td>
-  </tr>
-</table>
+
+<br />
+
+<!-- About Me -->
+## 🌟 About Me
+
+> *"Turning ideas into interactive reality, one pixel and logic gate at a time."*
+
+- 🎓 Computer Engineering Student • 🧑‍🔬 Tech Explorer  
+- 🤖 Robotics, Programming, and Networking Enthusiast  
+- 🔭 Always tinkering with new tech & creative code  
+- 🌱 Lifelong learner, evolving with every keystroke  
+- 💡 Open Source Contributor • Code Philosopher  
+- 🚀 Let’s build, break, and innovate together!  
 
 ---
 
-## 🟩 GitHub Intelligence
+## 🔗 Connect & Explore
 
-<div align="center" style="background:#141e17;border-radius:18px;padding:14px 0;box-shadow:0 2px 24px #00ffb377;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-SIDD&show_icons=true&count_private=true&hide_border=true&title_color=00FFB3&icon_color=00FFB3&bg_color=141e17&text_color=fff&border_radius=12" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=ANONYMOUS-SIDD&theme=react&background=141e17&ring=00FFB3&fire=00FFB3&currStreakLabel=00FFB3&sideNums=fff&sideLabels=fff&hide_border=true" height="160"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-SIDD&layout=compact&theme=react&hide_border=true&bg_color=141e17&title_color=00FFB3&text_color=fff&border_radius=12" height="160"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANONYMOUS-SIDD&theme=github-compact&bg_color=141e17&color=00FFB3&line=00FFB3&point=fff&radius=12" height="160"/>
+<p align="center">
+  <a href="mailto:siddhanttimalsina10@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" title="Gmail"/></a>
+  <a href="https://facebook.com/Siddhant.Timalsina.92"><img src="https://img.icons8.com/fluency/48/facebook-new.png" title="Facebook"/></a>
+  <a href="https://tiktok.com/@sid__ant"><img src="https://img.icons8.com/fluency/48/tiktok.png" title="TikTok"/></a>
+  <a href="https://youtube.com/@FEELTHEMUSICSID"><img src="https://img.icons8.com/fluency/48/youtube-play.png" title="YouTube"/></a>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ANONYMOUS-SIDD&theme=tokyo-night&bg_color=1a1b27&hide_border=true" />
+</p>
+
+<div align="center">
+  <a href="https://github.com/ANONYMOUS-SIDD/your-cool-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=your-cool-project&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/ANONYMOUS-SIDD/another-amazing-repo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ANONYMOUS-SIDD&repo=another-amazing-repo&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
 
-<!-- HACKER QUOTE (Animated Typing) -->
-<div align="center" style="background:#101a13;border-radius:14px;padding:18px 8px;margin-bottom:12px;box-shadow:0 2px 18px #00ffb388;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&duration=4200&pause=1000&color=00FFB3&background=101a1300&center=true&vCenter=true&width=480&lines=%E2%80%9CHack+the+planet.+Break+the+rules.%E2%80%9D;%E2%80%9CThink+in+code%2C+dream+in+logic.%E2%80%9D;%E2%80%9CStay+curious%2C+never+stop+debugging.%E2%80%9D" alt="Hacker Quotes" />
-  <br>
-  <span style="font-family:monospace;color:#00ffb3;font-size:1.09em;">— Siddhant Timalsina</span>
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,js,html,flutter,firebase,linux,git,github,raylib,apache,canva,figma,vscode,arduino"/>
+</p>
+
+---
+
+## 📊 GitHub Stats & Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ANONYMOUS-SIDD&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=ANONYMOUS-SIDD&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANONYMOUS-SIDD&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=ANONYMOUS-SIDD&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="180"/>
 </div>
 
 ---
 
-<!-- CONTRIBUTORS: CYBER STYLE -->
-<div align="center" style="background:#101a13;border-radius:16px;padding:18px;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ANONYMOUS-SIDD&limit=6&theme=github_dark&combine_all_yearly_contributions=true&animation=wave" alt="Contributors Graph" style="border-radius:11px; box-shadow:0 2px 14px #00ffb366;">
-  <p style="color:#00ffb3; font-size:1.09em; margin:10px 0 0 0;">// Thanks to everyone hacking with me!</p>
+## ✍️ Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight" alt="Dev Quote" style="border-radius: 12px;"/>
 </div>
 
 ---
 
-<!-- CYBER FOOTER ANIMATION -->
-<div align="center" style="margin-top: 22px;">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=00FFB3&height=90&section=footer" width="85%" />
-  <br>
-  <span style="font-family:'Fira Mono', monospace;color:#00ffb3;font-size:1.16em;">
-    <b>&gt;_ HACK THE FUTURE. STAY CYBER.</b>
-  </span>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=14e5e7&height=160&section=footer&text=Happy%20Coding%20%F0%9F%9A%80&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+  <br /><br />
+  <strong>Stay curious. Stay creative.</strong> 🌟
 </div>

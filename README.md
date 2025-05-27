@@ -107,11 +107,9 @@ A passionate tech explorer, builder, and innovator.
 
 ## 💬 Developer Wisdom
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=4700&pause=900&color=8b5cf6&center=true&width=1000&lines=
-💻+%22First,+solve+the+problem.+Then,+write+the+code.%22+-+John+Johnson;
-🧠+%22It's+not+a+bug,+it's+a+feature.%22+-+Anonymous;
-💬+%22Talk+is+cheap.+Show+me+the+code.%22+-+Linus+Torvalds" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=20&duration=4000&pause=1000&color=8b5cf6&center=true&width=1000&lines=%F0%9F%92%BB+%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson;%F0%9F%92%AA+%22The+only+way+to+go+fast+is+to+go+well.%22+-+Robert+C.+Martin;%F0%9F%9A%A8+%22Premature+optimization+is+the+root+of+all+evil.%22+-+Donald+Knuth;%F0%9F%91%8D+%22Good+code+is+its+own+best+documentation.%22+-+Steve+McConnell" alt="Animated Developer Quotes" />
+</div>
 
 ---
 
